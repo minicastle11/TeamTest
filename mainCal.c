@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include <stdio>
 #include "calculater.h"
 
 int main(){
-    int n1,n2,n3, result;
+    int n1,n2, result;
     char op;
     
     printf("두 수를 입력 :");
