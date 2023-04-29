@@ -7,7 +7,7 @@ int main(){
     
     printf("두 수를 입력 :");
     scanf("%d %d", &n1, &n2);
-    getchar();
+    getcahr();
     printf("연산자 입력(+, -, *, /) :");
     scanf("%c", &op);
  
